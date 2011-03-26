@@ -12,7 +12,7 @@ namespace TestApplication
         {
             DozoryApi api = new DozoryApi();
 
-            OrgAuth auth = new OrgAuth(152,"tOwPW4GB");
+            OrgAuth auth = new OrgAuth(152,"*****");
 
             List<int> arg = new List<int>();
             arg.Add(40558);
